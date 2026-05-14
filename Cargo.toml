@@ -54,9 +54,9 @@ precis-core = "0.1.9"
 precis-profiles = "0.1.10"
 serde = "1.0.199"
 serde_derive = "1.0.199"
-tantivy-tokenizer-api = "0.6.0"
+tantivy-tokenizer-api = "0.7.0"
 unicode-normalization = "0.1.23"
 
 [dev-dependencies]
-tantivy = "0.25.0"
+tantivy = "0.26.1"
 test_utils = { path = "./tests/utils" }
